@@ -1,0 +1,885 @@
+{
+  "name": "NYSE - NEW YORK STOCK EXCHANGE",
+  "children": [
+    {
+      "name": "BASIC MATERIALS",
+      "children": [
+        {
+          "name": "BHP Group",
+          "symbol": "BHP",
+          "value": 204.642
+        },
+        {
+          "name": "BHP Group",
+          "symbol": "BBL",
+          "value": 166.4
+        },
+        {
+          "name": "Linde plc",
+          "symbol": "LIN",
+          "value": 133.634
+        },
+        {
+          "name": "Rio Tinto Group",
+          "symbol": "RIO",
+          "value": 145.614
+        },
+        {
+          "name": "E. I. du Pont de Nemours and Company",
+          "symbol": "CTA-PA",
+          "value": 74.601
+        },
+        {
+          "name": "The Sherwin-Williams Company",
+          "symbol": "SHW",
+          "value": 61.111
+        },
+        {
+          "name": "Ecolab Inc.",
+          "symbol": "ECL",
+          "value": 61.71
+        },
+        {
+          "name": "Southern Copper Corporation",
+          "symbol": "SCCO",
+          "value": 60.671
+        },
+        {
+          "name": "Air Products and Chemicals, Inc.",
+          "symbol": "APD",
+          "value": 58.253
+        },
+        {
+          "name": "Dow Inc.",
+          "symbol": "DOW",
+          "value": 47.38
+        },
+        {
+          "name": "Newmont Corporation",
+          "symbol": "NEM",
+          "value": 45.682
+        },
+        {
+          "name": "DuPont de Nemours, Inc.",
+          "symbol": "DD",
+          "value": 38.57
+        },
+        {
+          "name": "LyondellBasell Industries N.V.",
+          "symbol": "LYB",
+          "value": 34.864
+        },
+        {
+          "name": "Barrick Gold Corporation",
+          "symbol": "GOLD",
+          "value": 34.356
+        },
+        {
+          "name": "CRH plc",
+          "symbol": "CRH",
+          "value": 34.456
+        }
+      ]
+    },
+    {
+      "name": "FINANCIAL SERVICES",
+      "children": [
+        {
+          "name": "Berkshire Hathaway Inc.",
+          "symbol": "BRK-A",
+          "value": 572.845
+        },
+        {
+          "name": "Berkshire Hathaway Inc.",
+          "symbol": "BRK-B",
+          "value": 572.866
+        },
+        {
+          "name": "Wells Fargo & Company",
+          "symbol": "WFC-PN",
+          "value": 211.498
+        },
+        {
+          "name": "Visa Inc.",
+          "symbol": "V",
+          "value": 471.287
+        },
+        {
+          "name": "JPMorgan Chase & Co.",
+          "symbol": "JPM-PC",
+          "value": 353.525
+        },
+        {
+          "name": "JPMorgan Chase & Co.",
+          "symbol": "JPM-PD",
+          "value": 351.803
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BAC",
+          "value": 309.601
+        },
+        {
+          "name": "Mastercard Incorporated",
+          "symbol": "MA",
+          "value": 352.216
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BAC-PL",
+          "value": 273.568
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BAC-PK",
+          "value": 264.562
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BML-PL",
+          "value": 300.144
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BAC-PE",
+          "value": 293.978
+        },
+        {
+          "name": "Wells Fargo & Company",
+          "symbol": "WFC-PL",
+          "value": 215.838
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BML-PG",
+          "value": 290.051
+        },
+        {
+          "name": "Bank of America Corporation",
+          "symbol": "BML-PH",
+          "value": 285.675
+        }
+      ]
+    },
+    {
+      "name": "CONSUMER DEFENSIVE",
+      "children": [
+        {
+          "name": "Walmart Inc.",
+          "symbol": "WMT",
+          "value": 376.89
+        },
+        {
+          "name": "The Procter & Gamble Company",
+          "symbol": "PG",
+          "value": 314.36
+        },
+        {
+          "name": "Unilever PLC",
+          "symbol": "UL",
+          "value": 225.133
+        },
+        {
+          "name": "The Coca-Cola Company",
+          "symbol": "KO",
+          "value": 218.154
+        },
+        {
+          "name": "Philip Morris International Inc.",
+          "symbol": "PM",
+          "value": 136.37
+        },
+        {
+          "name": "Anheuser-Busch InBev SA/NV",
+          "symbol": "BUD",
+          "value": 127.904
+        },
+        {
+          "name": "The Estée Lauder Companies Inc.",
+          "symbol": "EL",
+          "value": 106.774
+        },
+        {
+          "name": "Diageo plc",
+          "symbol": "DEO",
+          "value": 97.355
+        },
+        {
+          "name": "Constellation Brands, Inc.",
+          "symbol": "STZ-B",
+          "value": 43.383
+        },
+        {
+          "name": "British American Tobacco p.l.c.",
+          "symbol": "BTI",
+          "value": 84.098
+        },
+        {
+          "name": "Altria Group, Inc.",
+          "symbol": "MO",
+          "value": 83.629
+        },
+        {
+          "name": "Colgate-Palmolive Company",
+          "symbol": "CL",
+          "value": 65.034
+        },
+        {
+          "name": "TAL Education Group",
+          "symbol": "TAL",
+          "value": 48.835
+        },
+        {
+          "name": "Dollar General Corporation",
+          "symbol": "DG",
+          "value": 47.19
+        },
+        {
+          "name": "Kimberly-Clark Corporation",
+          "symbol": "KMB",
+          "value": 44.261
+        }
+      ]
+    },
+    {
+      "name": "ENERGY",
+      "children": [
+        {
+          "name": "Exxon Mobil Corporation",
+          "symbol": "XOM",
+          "value": 236.032
+        },
+        {
+          "name": "Royal Dutch Shell plc",
+          "symbol": "RDS-B",
+          "value": 157.32
+        },
+        {
+          "name": "Royal Dutch Shell plc",
+          "symbol": "RDS-A",
+          "value": 164.854
+        },
+        {
+          "name": "PetroChina Company Limited",
+          "symbol": "PTR",
+          "value": 115.064
+        },
+        {
+          "name": "TOTAL SE",
+          "symbol": "TOT",
+          "value": 124.843
+        },
+        {
+          "name": "China Petroleum & Chemical Corporation",
+          "symbol": "SNP",
+          "value": 81.423
+        },
+        {
+          "name": "BP p.l.c.",
+          "symbol": "BP",
+          "value": 86.829
+        },
+        {
+          "name": "ConocoPhillips",
+          "symbol": "COP",
+          "value": 71.841
+        },
+        {
+          "name": "Enbridge Inc.",
+          "symbol": "ENB",
+          "value": 70.33
+        },
+        {
+          "name": "Equinor ASA",
+          "symbol": "EQNR",
+          "value": 63.602
+        },
+        {
+          "name": "Enterprise Products Partners L.P.",
+          "symbol": "EPD",
+          "value": 47.412
+        },
+        {
+          "name": "Eni S.p.A.",
+          "symbol": "E",
+          "value": 41.244
+        },
+        {
+          "name": "EOG Resources, Inc.",
+          "symbol": "EOG",
+          "value": 41.181
+        },
+        {
+          "name": "TC Energy Corporation",
+          "symbol": "TRP",
+          "value": 40.27
+        },
+        {
+          "name": "Schlumberger Limited",
+          "symbol": "SLB",
+          "value": 39.695
+        }
+      ]
+    },
+    {
+      "name": "TECHNOLOGY",
+      "children": [
+        {
+          "name": "salesforce.com, inc.",
+          "symbol": "CRM",
+          "value": 220.687
+        },
+        {
+          "name": "Oracle Corporation",
+          "symbol": "ORCL",
+          "value": 190.479
+        },
+        {
+          "name": "Accenture plc",
+          "symbol": "ACN",
+          "value": 171.412
+        },
+        {
+          "name": "SAP SE",
+          "symbol": "SAP",
+          "value": 151.466
+        },
+        {
+          "name": "Sony Corporation",
+          "symbol": "SNE",
+          "value": 137.528
+        },
+        {
+          "name": "International Business Machines Corporation",
+          "symbol": "IBM",
+          "value": 109.787
+        },
+        {
+          "name": "ServiceNow, Inc.",
+          "symbol": "NOW",
+          "value": 108.214
+        },
+        {
+          "name": "Uber Technologies, Inc.",
+          "symbol": "UBER",
+          "value": 99.805
+        },
+        {
+          "name": "Fidelity National Information Services, Inc.",
+          "symbol": "FIS",
+          "value": 86.61
+        },
+        {
+          "name": "VMware, Inc.",
+          "symbol": "VMW",
+          "value": 61.607
+        },
+        {
+          "name": "Dell Technologies Inc.",
+          "symbol": "DELL",
+          "value": 59.744
+        },
+        {
+          "name": "HP Inc.",
+          "symbol": "HPQ",
+          "value": 35.142
+        },
+        {
+          "name": "Palo Alto Networks, Inc.",
+          "symbol": "PANW",
+          "value": 35.011
+        },
+        {
+          "name": "STMicroelectronics N.V.",
+          "symbol": "STM",
+          "value": 33.951
+        },
+        {
+          "name": "RingCentral, Inc.",
+          "symbol": "RNG",
+          "value": 33.294
+        }
+      ]
+    },
+    {
+      "name": "CONSUMER CYCLICAL",
+      "children": [
+        {
+          "name": "Alibaba Group Holding Limited",
+          "symbol": "BABA",
+          "value": 651.904
+        },
+        {
+          "name": "The Home Depot, Inc.",
+          "symbol": "HD",
+          "value": 274.802
+        },
+        {
+          "name": "Toyota Motor Corporation",
+          "symbol": "TM",
+          "value": 205.155
+        },
+        {
+          "name": "McDonald's Corporation",
+          "symbol": "MCD",
+          "value": 157.39
+        },
+        {
+          "name": "The TJX Companies, Inc.",
+          "symbol": "TJX",
+          "value": 81.259
+        },
+        {
+          "name": "General Motors Company",
+          "symbol": "GM",
+          "value": 73.04
+        },
+        {
+          "name": "Honda Motor Co., Ltd.",
+          "symbol": "HMC",
+          "value": 48.01
+        },
+        {
+          "name": "Las Vegas Sands Corp.",
+          "symbol": "LVS",
+          "value": 47.519
+        },
+        {
+          "name": "Ford Motor Company",
+          "symbol": "F",
+          "value": 46.789
+        },
+        {
+          "name": "Chewy, Inc.",
+          "symbol": "CHWY",
+          "value": 41.904
+        },
+        {
+          "name": "Ferrari N.V.",
+          "symbol": "RACE",
+          "value": 48.164
+        },
+        {
+          "name": "V.F. Corporation",
+          "symbol": "VFC",
+          "value": 31.365
+        },
+        {
+          "name": "Carnival Corporation & plc",
+          "symbol": "CCL",
+          "value": 28.433
+        },
+        {
+          "name": "Ball Corporation",
+          "symbol": "BLL",
+          "value": 28.287
+        },
+        {
+          "name": "D.R. Horton, Inc.",
+          "symbol": "DHI",
+          "value": 27.107
+        }
+      ]
+    },
+    {
+      "name": "REAL ESTATE",
+      "children": [
+        {
+          "name": "American Tower Corporation (REIT)",
+          "symbol": "AMT",
+          "value": 99.85
+        },
+        {
+          "name": "KE Holdings Inc.",
+          "symbol": "BEKE",
+          "value": 80.405
+        },
+        {
+          "name": "Crown Castle International Corp. (REIT)",
+          "symbol": "CCI",
+          "value": 69.527
+        },
+        {
+          "name": "Simon Property Group, Inc.",
+          "symbol": "SPG-PJ",
+          "value": 58.022
+        },
+        {
+          "name": "Public Storage",
+          "symbol": "PSA-PH",
+          "value": 44.196
+        },
+        {
+          "name": "Public Storage",
+          "symbol": "PSA-PK",
+          "value": 44.157
+        },
+        {
+          "name": "Public Storage",
+          "symbol": "PSA",
+          "value": 42.414
+        },
+        {
+          "name": "Digital Realty Trust, Inc.",
+          "symbol": "DLR",
+          "value": 37.881
+        },
+        {
+          "name": "Welltower Inc.",
+          "symbol": "WELL",
+          "value": 30.719
+        },
+        {
+          "name": "Digital Realty Trust, Inc.",
+          "symbol": "DLR-PK",
+          "value": 28.304
+        },
+        {
+          "name": "Digital Realty Trust, Inc.",
+          "symbol": "DLR-PJ",
+          "value": 27.698
+        },
+        {
+          "name": "Weyerhaeuser Company",
+          "symbol": "WY",
+          "value": 26.845
+        },
+        {
+          "name": "CBRE Group, Inc.",
+          "symbol": "CBRE",
+          "value": 25.89
+        },
+        {
+          "name": "Equity Residential",
+          "symbol": "EQR",
+          "value": 24.868
+        },
+        {
+          "name": "Boston Properties, Inc.",
+          "symbol": "BXP-PB",
+          "value": 23.611
+        }
+      ]
+    },
+    {
+      "name": "HEALTHCARE",
+      "children": [
+        {
+          "name": "Johnson & Johnson",
+          "symbol": "JNJ",
+          "value": 427.397
+        },
+        {
+          "name": "UnitedHealth Group Incorporated",
+          "symbol": "UNH",
+          "value": 315.208
+        },
+        {
+          "name": "Novartis AG",
+          "symbol": "NVS",
+          "value": 199.464
+        },
+        {
+          "name": "Eli Lilly and Company",
+          "symbol": "LLY",
+          "value": 196.017
+        },
+        {
+          "name": "Merck & Co., Inc.",
+          "symbol": "MRK",
+          "value": 188.664
+        },
+        {
+          "name": "Pfizer Inc.",
+          "symbol": "PFE",
+          "value": 187.596
+        },
+        {
+          "name": "Thermo Fisher Scientific Inc.",
+          "symbol": "TMO",
+          "value": 180.99
+        },
+        {
+          "name": "Novo Nordisk A/S",
+          "symbol": "NVO",
+          "value": 166.357
+        },
+        {
+          "name": "Danaher Corporation",
+          "symbol": "DHR",
+          "value": 158.553
+        },
+        {
+          "name": "Danaher Corporation",
+          "symbol": "DHR-PA",
+          "value": 142.039
+        },
+        {
+          "name": "Bristol-Myers Squibb Company",
+          "symbol": "BMY",
+          "value": 140.232
+        },
+        {
+          "name": "Stryker Corporation",
+          "symbol": "SYK",
+          "value": 93.606
+        },
+        {
+          "name": "CVS Health Corporation",
+          "symbol": "CVS",
+          "value": 90.916
+        },
+        {
+          "name": "GlaxoSmithKline plc",
+          "symbol": "GSK",
+          "value": 85.409
+        },
+        {
+          "name": "Anthem, Inc.",
+          "symbol": "ANTM",
+          "value": 73.531
+        }
+      ]
+    },
+    {
+      "name": "COMMUNICATION SERVICES",
+      "children": [
+        {
+          "name": "Verizon Communications Inc.",
+          "symbol": "VZ",
+          "value": 236.363
+        },
+        {
+          "name": "AT&T Inc.",
+          "symbol": "T",
+          "value": 209.362
+        },
+        {
+          "name": "Snap Inc.",
+          "symbol": "SNAP",
+          "value": 104.782
+        },
+        {
+          "name": "Spotify Technology S.A.",
+          "symbol": "SPOT",
+          "value": 63.662
+        },
+        {
+          "name": "Twitter, Inc.",
+          "symbol": "TWTR",
+          "value": 57.403
+        },
+        {
+          "name": "Pinterest, Inc.",
+          "symbol": "PINS",
+          "value": 52.902
+        },
+        {
+          "name": "RELX PLC",
+          "symbol": "RELX",
+          "value": 47.061
+        },
+        {
+          "name": "Tencent Music Entertainment Group",
+          "symbol": "TME",
+          "value": 44.153
+        },
+        {
+          "name": "América Móvil, S.A.B. de C.V.",
+          "symbol": "AMOV",
+          "value": 43.892
+        },
+        {
+          "name": "América Móvil, S.A.B. de C.V.",
+          "symbol": "AMX",
+          "value": 43.625
+        },
+        {
+          "name": "BCE Inc.",
+          "symbol": "BCE",
+          "value": 39.546
+        },
+        {
+          "name": "Orange S.A.",
+          "symbol": "ORAN",
+          "value": 31.453
+        },
+        {
+          "name": "Chunghwa Telecom Co., Ltd.",
+          "symbol": "CHT",
+          "value": 30.627
+        },
+        {
+          "name": "TELUS Corporation",
+          "symbol": "TU",
+          "value": 26.316
+        },
+        {
+          "name": "Telefónica, S.A.",
+          "symbol": "TEF",
+          "value": 23.369
+        }
+      ]
+    },
+    {
+      "name": "INDUSTRIALS",
+      "children": [
+        {
+          "name": "Honeywell International Inc.",
+          "symbol": "HON",
+          "value": 146.772
+        },
+        {
+          "name": "Union Pacific Corporation",
+          "symbol": "UNP",
+          "value": 141.434
+        },
+        {
+          "name": "The Boeing Company",
+          "symbol": "BA",
+          "value": 133.705
+        },
+        {
+          "name": "Caterpillar Inc.",
+          "symbol": "CAT",
+          "value": 121.314
+        },
+        {
+          "name": "Raytheon Technologies Corporation",
+          "symbol": "RTX",
+          "value": 118.018
+        },
+        {
+          "name": "Deere & Company",
+          "symbol": "DE",
+          "value": 108.683
+        },
+        {
+          "name": "3M Company",
+          "symbol": "MMM",
+          "value": 102.866
+        },
+        {
+          "name": "Lockheed Martin Corporation",
+          "symbol": "LMT",
+          "value": 97.064
+        },
+        {
+          "name": "FedEx Corporation",
+          "symbol": "FDX",
+          "value": 68.934
+        },
+        {
+          "name": "Norfolk Southern Corporation",
+          "symbol": "NSC",
+          "value": 65.946
+        },
+        {
+          "name": "Illinois Tool Works Inc.",
+          "symbol": "ITW",
+          "value": 64.425
+        },
+        {
+          "name": "Global Payments Inc.",
+          "symbol": "GPN",
+          "value": 60.309
+        },
+        {
+          "name": "ABB Ltd",
+          "symbol": "ABB",
+          "value": 59.192
+        },
+        {
+          "name": "Emerson Electric Co.",
+          "symbol": "EMR",
+          "value": 52.401
+        },
+        {
+          "name": "Northrop Grumman Corporation",
+          "symbol": "NOC",
+          "value": 50.331
+        }
+      ]
+    },
+    {
+      "name": "UTILITIES",
+      "children": [
+        {
+          "name": "NextEra Energy, Inc.",
+          "symbol": "NEE",
+          "value": 145.226
+        },
+        {
+          "name": "Duke Energy Corporation",
+          "symbol": "DUK-PA",
+          "value": 65.576
+        },
+        {
+          "name": "Duke Energy Corporation",
+          "symbol": "DUK",
+          "value": 64.087
+        },
+        {
+          "name": "The Southern Company",
+          "symbol": "SO",
+          "value": 61.03
+        },
+        {
+          "name": "Dominion Energy, Inc.",
+          "symbol": "D",
+          "value": 57.605
+        },
+        {
+          "name": "National Grid plc",
+          "symbol": "NGG",
+          "value": 41.266
+        },
+        {
+          "name": "Sempra Energy",
+          "symbol": "SRE",
+          "value": 34.371
+        },
+        {
+          "name": "Public Service Enterprise Group Incorporated",
+          "symbol": "PEG",
+          "value": 28.186
+        },
+        {
+          "name": "Eversource Energy",
+          "symbol": "ES",
+          "value": 27.615
+        },
+        {
+          "name": "American Water Works Company, Inc.",
+          "symbol": "AWK",
+          "value": 26.435
+        },
+        {
+          "name": "Consolidated Edison, Inc.",
+          "symbol": "ED",
+          "value": 23.007
+        },
+        {
+          "name": "Edison International",
+          "symbol": "EIX",
+          "value": 21.068
+        },
+        {
+          "name": "PPL Corporation",
+          "symbol": "PPL",
+          "value": 20.755
+        },
+        {
+          "name": "Fortis Inc.",
+          "symbol": "FTS",
+          "value": 18.259
+        },
+        {
+          "name": "FirstEnergy Corp.",
+          "symbol": "FE",
+          "value": 18.203
+        }
+      ]
+    }
+  ]
+}

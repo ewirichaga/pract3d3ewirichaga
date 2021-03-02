@@ -1,0 +1,209 @@
+/*#region Index*/
+
+body {
+  background-color: white;
+}
+.InsideContent{
+  display:inline-block;
+}
+#divTreemap{
+  width:800px;
+}
+#divCandlestickChart{
+  width:350px;
+}
+
+h1 {
+  display: block;
+  font-size: 1em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-family: 'Verdana';
+  position:relative;
+  left:60px;
+}
+
+h3 {
+  display: block;
+  font-size: 0.75em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-family: 'Verdana';
+  position:relative;
+  left:10px;
+}
+
+/*#endregion Index*/
+
+/*#region Treemap*/
+
+#chart {
+  max-width: 100%;
+  overflow:auto;
+}
+text {
+  pointer-events: none;
+}
+.grandparent text {
+  font-weight: bold;
+  fill: white;
+  font-family:'Calibri'
+}
+rect {
+  stroke: #fff;
+  stroke-width: 1px;
+}
+rect.parent,
+.grandparent rect {
+  stroke-width: 3px;
+}
+.grandparent:hover rect {
+  fill: #0446fc;
+}
+.children rect.parent,
+.grandparent rect {
+  cursor: pointer;
+}
+.children text{
+  font-weight: bold;
+  fill: white;
+  font-family:'Calibri'
+}
+.children rect.child {
+  opacity: 0;
+}
+.children rect.parent {
+  fill: #4B76E8
+}
+.children:hover rect.child {
+  opacity: 1;
+  stroke-width: 1px;
+  fill: #0446fc;
+}
+.children:hover rect.parent {
+  opacity: 0;
+}
+.legend {
+  margin-bottom:8px !important;
+}
+.legend rect {
+  stroke-width: 0px;
+}
+.legend text {
+  text-anchor: middle;
+  pointer-events: auto;
+  font-size: 13px;
+  font-family: 'Calibri';
+  fill: white;
+}
+.form-group {
+    text-align:left;
+}
+.textdiv {
+    font-family: 'Calibri';
+    color: white;
+    font-size: 14px;
+    padding: 7px;
+    cursor: pointer;
+    overflow:none;
+}
+.textdiv .title {
+    font-size: 102%;
+    font-weight: bold;
+    margin-top: 8px;
+    font-size:11px !important;
+}
+.textdiv p{
+    line-height: 13px;
+    margin:0 0 4px !important;
+    padding:0px;
+    font-size:10px !important;
+}
+
+/*#endregion Treemap*/
+
+/*#region Candlestick Chart */
+
+.upGreenArrow{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 4.5px 12px 4.5px;
+  border-color: transparent transparent #00ff00 transparent;
+} 
+.downRedArrow{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 12px 4.5px 0 4.5px;
+  border-color: #ff0000 transparent transparent transparent;
+}
+.upArrow{
+ position: relative;
+ top: -15px;
+ left: -10px;
+ width:0;
+ height:0;
+ border: 6px solid transparent;
+ border-bottom-color: #00ff00;
+}
+.upArrow:after{
+ position: absolute;
+ content: '';
+ top: 20px;
+ left: -3px;
+ width: 6px;
+ height: 10px;
+ background: #00ff00;
+}
+.downArrow{
+ position: relative;
+ top: 18px;
+ left: -10px;
+ width: 0;
+ height: 0;
+ border: 6px solid transparent;
+ border-top-color: #ff0000;
+}
+.downArrow:after{
+ position: absolute;
+ content: '';
+ top: -15px;
+ left: -3px;
+ width: 6px;
+ height: 10px;
+ background: #ff0000;
+}
+.axis path,
+.axis line {
+   fill: none;
+   stroke: black;
+   shape-rendering: crispEdges;
+}
+.axis text {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 11px;
+   fill: black;
+}
+
+div.tooltip {	
+  position: absolute;			
+  text-align: center;			
+  width: 150px;					
+  height: 95px;					
+  padding: 5px;				
+  font: 12px 'Verdana';		
+  background: rgba(0,0,0,0.8);	
+  color: #fff;
+  border: 0px;		
+  /*border-radius: 8px;	*/		
+  pointer-events: none;			
+}  
+
+/*#endregion Candlestick Chart */
